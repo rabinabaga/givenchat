@@ -1,0 +1,7 @@
+.logo-opaline{
+    background-color: #832ACC;
+}
+
+.nav-link.active{
+    border-bottom:1px solid rgb(22, 37, 22)
+}
